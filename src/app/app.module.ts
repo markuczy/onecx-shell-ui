@@ -307,7 +307,7 @@ declare const __webpack_share_scopes__: any
 
 declare global {
   interface Window {
-    onecxWebpackContainer: any
+    onecxWebpackContainer: any // TODO: Check
   }
 }
 
